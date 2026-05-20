@@ -1,7 +1,9 @@
 # Cyclistic BI Dashboard
 
 Interactive BI dashboard analyzing Cyclistic bike usage using SQL, BigQuery, and Tableau.
+## Live Dashboard
 
+[View Tableau Dashboard](https://public.tableau.com/app/profile/farnaz.sasanian/viz/CyclistBikeUsageDashboard/Dashboard1)
 ## Dashboard Preview
 
 ![Dashboard Screenshot](dashboard.png)
